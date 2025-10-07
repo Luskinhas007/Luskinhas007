@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Toniolo Madalena</h1>
 <h3 align="center">A Systems Development student at ETEC in Pirssununga</h3>
-
-![Texto alternativo da imagem](carrot-smoking.png)
+<align-center>
+![Texto alternativo da imagem](carrot-smoking.png)</align-center>
 
 - 🔥 I’m currently working on **Oven automation**
 
