@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Lucas Toniolo Madalena</h1>
 <h3 align="center">A Systems Development student at ETEC in Pirssununga</h3>
-<align-center>
-![Texto alternativo da imagem](carrot-smoking.png)</align-center>
 
-- 🔥 I’m currently working on **Oven automation**
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-- 📖 I’m currently learning **Python, C++, HTML, CSS, JavaScript, SQL;**
+  <div style="max-width: 60%;">
+    <h1>Hi 👋, I'm Lucas Toniolo Madalena</h1>
+    <h3>A Systems Development student at ETEC in Pirassununga</h3>
 
-- 🎮 I’m looking to collaborate on **Stars Enigmas**
+    - 🔥 I’m currently working on **Oven automation**  
+    - 📖 I’m currently learning **Python, C++, HTML, CSS, JavaScript, SQL;**  
+    - 🎮 I’m looking to collaborate on **Stars Enigmas**  
+    - 💬 Ask me about **Programming**  
+    - 📫 How to reach me **lucastmadalena@gmail.com**  
+  </div>
 
-- 💬 Ask me about **Programming**
+  <div>
+    <img src="carrot-smoking.png" alt="Texto alternativo da imagem" width="200" />
+  </div>
 
-- 📫 How to reach me **lucastmadalena@gmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
